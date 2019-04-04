@@ -12,7 +12,7 @@ html, body {
   background-color: #efefef;
 }
 
-.dslogo { width:150px; margin-top:-60px; padding-bottom:8px; border-bottom:solid 3px #000; margin-left:16px;}
+.dslogo { width:150px; margin-top:-60px; background-color:#fff;  padding-bottom:8px; border-bottom:solid 3px #000; margin-left:16px;}
 .mynav { margin-left:2px; }
 #loginBox {
   width:100%;
